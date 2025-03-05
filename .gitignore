@@ -1,0 +1,8 @@
+*MODELS*/
+*DATA*/
+*_data*/
+*.idea*/
+*.env
+*.pth
+*__pycache__*/
+*.tflite
