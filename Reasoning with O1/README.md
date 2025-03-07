@@ -8,7 +8,7 @@
 
 - [OpenAI API Usage](https://platform.openai.com/settings/organization/usage)
 
-## Introduction to o1
+### 1. Introduction to o1
 
 #### Before o1
 
