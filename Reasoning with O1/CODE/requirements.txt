@@ -1,0 +1,4 @@
+# requirements file
+openai==1.54.0
+termcolor
+tiktoken
