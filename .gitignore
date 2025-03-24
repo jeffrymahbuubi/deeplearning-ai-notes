@@ -6,3 +6,5 @@
 *.pth
 *__pycache__*/
 *.tflite
+*venv*/
+my-app/
